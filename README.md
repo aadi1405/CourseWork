@@ -1,2 +1,2 @@
 # CourseWork
-Contains most of my school course work! 
+Contains some of my school course work! 
